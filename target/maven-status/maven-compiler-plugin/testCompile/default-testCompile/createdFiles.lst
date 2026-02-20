@@ -1,0 +1,5 @@
+com\mycompany\piedra_azul\domain\model\RolTest.class
+com\mycompany\piedra_azul\domain\service\UsuarioServiceTest.class
+com\mycompany\piedra_azul\domain\model\UsuarioTest.class
+com\mycompany\piedra_azul\domain\service\UsuarioServiceTest$UsuarioRepositoryFake.class
+com\mycompany\piedra_azul\utils\PasswordUtilsTest.class
