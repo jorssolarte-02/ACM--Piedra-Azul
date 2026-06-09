@@ -1,0 +1,3 @@
+com\piedrazul\gateway\security\SecurityConfig.class
+com\piedrazul\gateway\ApiGatewayApplication.class
+com\piedrazul\gateway\security\KeycloakRealmRolesConverter.class
